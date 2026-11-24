@@ -23,7 +23,7 @@
 ---
 ## 🔗 Linki
 
-* Discord: [Kliknij tutaj](https://discord.gg/YwerVqHVyN)
+* Discord: [Kliknij tutaj (soon)](https://discord.gg/)
 <p align="left">
 <a href="https://www.behance.net/k44_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="k44_" height="30" width="40" /></a>
 </p>
